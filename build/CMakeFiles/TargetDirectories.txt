@@ -1,0 +1,3 @@
+D:/Labs/Overlay/build/CMakeFiles/BmpOverlay.dir
+D:/Labs/Overlay/build/CMakeFiles/edit_cache.dir
+D:/Labs/Overlay/build/CMakeFiles/rebuild_cache.dir

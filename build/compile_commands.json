@@ -1,0 +1,22 @@
+[
+{
+  "directory": "D:/Labs/Overlay/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/BmpOverlay.dir/includes_CXX.rsp  -msse2 -g -std=gnu++11 -o CMakeFiles\\BmpOverlay.dir\\sources\\main.cpp.obj -c D:\\Labs\\Overlay\\sources\\main.cpp",
+  "file": "D:/Labs/Overlay/sources/main.cpp"
+},
+{
+  "directory": "D:/Labs/Overlay/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/BmpOverlay.dir/includes_CXX.rsp  -msse2 -g -std=gnu++11 -o CMakeFiles\\BmpOverlay.dir\\sources\\bmp_to_yuv.cpp.obj -c D:\\Labs\\Overlay\\sources\\bmp_to_yuv.cpp",
+  "file": "D:/Labs/Overlay/sources/bmp_to_yuv.cpp"
+},
+{
+  "directory": "D:/Labs/Overlay/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/BmpOverlay.dir/includes_CXX.rsp  -msse2 -g -std=gnu++11 -o CMakeFiles\\BmpOverlay.dir\\sources\\overlay.cpp.obj -c D:\\Labs\\Overlay\\sources\\overlay.cpp",
+  "file": "D:/Labs/Overlay/sources/overlay.cpp"
+},
+{
+  "directory": "D:/Labs/Overlay/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/BmpOverlay.dir/includes_CXX.rsp  -msse2 -g -std=gnu++11 -o CMakeFiles\\BmpOverlay.dir\\sources\\read_yuv.cpp.obj -c D:\\Labs\\Overlay\\sources\\read_yuv.cpp",
+  "file": "D:/Labs/Overlay/sources/read_yuv.cpp"
+}
+]
